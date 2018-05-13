@@ -12,5 +12,4 @@ added hello ok rakesh
 
 checkfeature checked fine
 
-Yes changed ok rakesh2
 
