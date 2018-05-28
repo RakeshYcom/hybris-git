@@ -1,4 +1,8 @@
 check again okk
 yes lll
 
+<<<<<<< HEAD
 yes please okkk
+=======
+yes please yes
+>>>>>>> 9a11bbac7c68eef4c7e001b7d15a44c741ff473e
